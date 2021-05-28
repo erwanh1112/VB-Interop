@@ -1,0 +1,2 @@
+#define SERVERINTEROP_API __declspec(dllexport)
+#define SERVERINTEROP_API __declspec(dllimport)
